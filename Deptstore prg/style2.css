@@ -1,0 +1,12 @@
+a{
+    font-size: 40px;
+    cursor: auto;
+}
+.list{
+    font-size:30px;
+    margin: 50px;
+}
+a:hover{
+    color: red;
+}
+  
