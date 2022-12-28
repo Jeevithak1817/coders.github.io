@@ -1,0 +1,26 @@
+ul{
+    width: 1130px;
+    margin:0;
+    padding:0;
+    list-style:none;
+    height:23px;
+    background-color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+li{
+    float:left;
+    border-right: 1px solid #156ee2;
+}
+
+a{
+    display:block;
+    padding:0 28px;
+    color:#fff;
+    text-decoration: none;
+}
+
+a:hover, .active a{
+    background-color: #156ee2;
+}
